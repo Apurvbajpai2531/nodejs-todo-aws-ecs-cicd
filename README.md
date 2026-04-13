@@ -71,29 +71,16 @@ http://<ecs-public-ip>:3000
 ```
 
 ---
-
-# 📸 Screenshots
-
-# ECS Cluster
-![ECS Cluster](images/ecs-cluster.png)
-
-# ECS Task Definition
-![Task Definition](images/ecs-task-definition.png)
-
-# ECR Repository
-![ECR](images/ecr-repo.png)
-
-# ECS Service
-![Service](images/ecs-service.png)
-
-# ECS Networking
-![Networking](images/ecs-networking.png)
+## 📸 Screenshots
 
 # ECS Running Task
-![Running Task](images/ecs-running-task.png)
+![ECS Running Task](images/ecs-task.png)
+
+# ECR Repository
+![ECR Repository](images/ecr-repo.png)
 
 # Application UI
-![App UI](images/app-ui.png)
+![Application UI](images/app-ui.png)
 ---
 
 # 🔐 IAM Role Configuration
