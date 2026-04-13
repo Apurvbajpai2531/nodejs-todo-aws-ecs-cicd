@@ -71,16 +71,17 @@ http://<ecs-public-ip>:3000
 ```
 
 ---
-## 📸 Screenshots
+# 📸 Screenshots
+
 
 # ECS Running Task
 ![ECS Running Task](images/app-ui.png)
 
-# ECR Repository
-![ECR Repository](images/ecr-repo.png)
+# ☁️ ECS Deployment (Running Task)
+![ECS Running Task](images/ecr-repo.png)
 
-# Application UI
-![Application UI](images/ecs-task.png)
+# 🌐 Application UI
+![Application UI](images/ecs-running-task.png)
 ---
 
 # 🔐 IAM Role Configuration
