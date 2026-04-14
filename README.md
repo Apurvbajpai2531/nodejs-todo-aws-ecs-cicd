@@ -5,6 +5,15 @@
 
 This project demonstrates an end-to-end DevOps workflow by deploying a Node.js Todo application using Docker and AWS services like ECR and ECS (Fargate).
 
+
+## 🚀 Architecture
+(diagram)
+
+## 🔄 CI/CD Flow
+1. Push → GitHub
+2. Build Docker image
+3. Push to ECR
+4. Deploy to ECS
 ---
 
 # 🛠️ Tech Stack
@@ -125,6 +134,3 @@ Created an IAM Role with:
 
 ---
 
-# ⭐ Give a Star
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
